@@ -1,0 +1,59 @@
+#EJERCICIO 01
+msj="APRECIA LO QUE TIENES"
+print(len(msj))
+
+#EJERCICIO 02
+msj="LA VIDA DA MUCHAS VUELTAS"
+print(len(msj))
+
+#EJERCICIO 03
+msj="PERRO QUE LADRA NO MUERDE"
+print(len(msj))
+
+#EJERCICIO 04
+msj="UN CLAVO SACE A ORTO CLAVO"
+print(len(msj))
+
+#EJERCICIO 05
+msj="NO TODO LO QUE BRILLA ES ORO"
+print(len(msj))
+
+#EJERCICIO 06
+msj="LA MEJOR COMPAÑIA ES LA SOLEDAD"
+print(len(msj))
+
+#EJRCICIO 07
+msj="TE QUIERO A MI LADO"
+print(len(msj))
+
+#EJRCICIO 08
+msj="PIENSA MENOS Y HAZ MAS"
+print(len(msj))
+
+#EJRCICIO 09
+msj="LA VIDA EMPIEZA CADA CINCO MINUTOS"
+print(len(msj))
+
+#EJRCICIO 10
+msj="EL PODER DE LA IMAGINACION NOS HACE INFINITO"
+print(len(msj))
+
+#EJRCICIO 11
+msj="SEAMOS REALISTAS, PIDAMOS LO IMPOSIBLE"
+print(len(msj))
+
+#EJRCICIO 12
+msj="UN BUEN VIAJANTE NO TIENE PLANES"
+print(len(msj))
+
+#EJRCICIO 13
+msj="DE LAS DIFICULTADES NACEN MILAGROS"
+print(len(msj))
+
+#EJRCICIO 14
+msj="VIVIMOS EN UN ARCOIRIS DE CAOS"
+print(len(msj))
+
+#EJRCICIO 15
+msj="DONDE HAY AMOR HAY VIDA"
+print(len(msj))
